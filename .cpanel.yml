@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/cp -R public /home/mebniorg1/public_html/
+    - /bin/cp -r public/* /home/mebniorg1/public_html/
